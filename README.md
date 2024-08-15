@@ -80,3 +80,4 @@ This analysis equips AtliQ Motors with the necessary insights to make informed d
 
 ## Dashboard snapshot
 
+![Snap_1](https://github.com/user-attachments/assets/630e758b-72cf-4374-9388-b891b4b14bc6)
